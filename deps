@@ -1,0 +1,518 @@
+223268272 com.alation.query:hive-3.1.1:war:1.0-SNAPSHOT
+491013714 javax:javaee-api:jar:8.0.1:provided
+1721510663 com.sun.mail:javax.mail:jar:1.6.2:provided
+454992345 javax.activation:activation:jar:1.1:provided
+1377456236 org.apache.hive:hive-jdbc:jar:3.1.1:provided
+1013199775 org.apache.hive:hive-common:jar:3.1.1:provided
+1470053518 org.apache.hive:hive-classification:jar:3.1.1:provided
+1320260667 org.apache.hive:hive-storage-api:jar:2.7.0:provided
+1311253681 commons-cli:commons-cli:jar:1.2:provided
+1397558816 commons-lang:commons-lang:jar:2.6:provided
+2098738059 org.apache.commons:commons-lang3:jar:3.2:provided
+1061838943 org.apache.orc:orc-core:jar:1.5.1:provided
+818464427 org.apache.orc:orc-shims:jar:1.5.1:provided
+198173340 com.google.protobuf:protobuf-java:jar:2.5.0:provided
+938941445 io.airlift:aircompressor:jar:0.10:provided
+1540606524 org.apache.hadoop:hadoop-hdfs:jar:2.2.0:provided
+769172083 com.sun.jersey:jersey-core:jar:1.9:provided
+1509387862 com.sun.jersey:jersey-server:jar:1.9:provided
+1450133081 asm:asm:jar:3.1:provided
+321451138 xmlenc:xmlenc:jar:0.52:provided
+2072709038 jline:jline:jar:2.12:provided
+434918231 javax.servlet:javax.servlet-api:jar:3.1.0:provided
+891130813 org.eclipse.jetty:jetty-http:jar:9.3.20.v20170531:provided
+1640365432 org.eclipse.jetty:jetty-util:jar:9.3.20.v20170531:provided
+1112551577 org.eclipse.jetty:jetty-rewrite:jar:9.3.20.v20170531:provided
+970827119 org.eclipse.jetty:jetty-client:jar:9.3.20.v20170531:provided
+1619282322 org.eclipse.jetty:jetty-server:jar:9.3.20.v20170531:provided
+786716359 org.eclipse.jetty:jetty-io:jar:9.3.20.v20170531:provided
+1844674426 org.eclipse.jetty:jetty-servlet:jar:9.3.20.v20170531:provided
+961628534 org.eclipse.jetty:jetty-security:jar:9.3.20.v20170531:provided
+2077970199 org.eclipse.jetty:jetty-webapp:jar:9.3.20.v20170531:provided
+2005232837 org.eclipse.jetty:jetty-xml:jar:9.3.20.v20170531:provided
+33281504 joda-time:joda-time:jar:2.9.9:provided
+852633168 org.apache.logging.log4j:log4j-1.2-api:jar:2.10.0:provided
+324035818 org.apache.logging.log4j:log4j-api:jar:2.10.0:provided
+1332728065 org.apache.logging.log4j:log4j-core:jar:2.10.0:provided
+275012057 org.apache.logging.log4j:log4j-web:jar:2.10.0:provided
+866589987 org.apache.logging.log4j:log4j-slf4j-impl:jar:2.10.0:provided
+599808137 org.apache.commons:commons-compress:jar:1.9:provided
+303456809 org.apache.ant:ant:jar:1.9.1:provided
+546200355 org.apache.ant:ant-launcher:jar:1.9.1:provided
+734729236 net.sf.jpam:jpam:jar:1.1:provided
+183371252 com.tdunning:json:jar:1.8:provided
+726149546 io.dropwizard.metrics:metrics-core:jar:3.1.0:provided
+2035099811 io.dropwizard.metrics:metrics-jvm:jar:3.1.0:provided
+173402154 io.dropwizard.metrics:metrics-json:jar:3.1.0:provided
+1894686001 com.fasterxml.jackson.core:jackson-databind:jar:2.9.5:provided
+436338687 com.fasterxml.jackson.core:jackson-annotations:jar:2.9.0:provided
+177849388 com.fasterxml.jackson.core:jackson-core:jar:2.9.5:provided
+799570413 com.github.joshelser:dropwizard-metrics-hadoop-metrics2-reporter:jar:0.1.2:provided
+724270652 org.apache.hadoop:hadoop-common:jar:2.6.0:provided
+1052803745 org.apache.hadoop:hadoop-annotations:jar:2.6.0:provided
+2050791921 org.apache.commons:commons-math3:jar:3.1.1:provided
+381149258 commons-httpclient:commons-httpclient:jar:3.1:provided
+1713223230 commons-net:commons-net:jar:3.1:provided
+1559426518 commons-collections:commons-collections:jar:3.2.1:provided
+1117719720 javax.servlet:servlet-api:jar:2.5:provided
+1795358977 org.mortbay.jetty:jetty:jar:6.1.26:provided
+1621419545 org.mortbay.jetty:jetty-util:jar:6.1.26:provided
+733213598 com.sun.jersey:jersey-json:jar:1.9:provided
+301154316 com.sun.xml.bind:jaxb-impl:jar:2.2.3-1:provided
+1653297210 org.codehaus.jackson:jackson-jaxrs:jar:1.8.3:provided
+626587228 org.codehaus.jackson:jackson-xc:jar:1.8.3:provided
+298045034 tomcat:jasper-compiler:jar:5.5.23:provided
+440082302 tomcat:jasper-runtime:jar:5.5.23:provided
+579442307 javax.servlet.jsp:jsp-api:jar:2.1:provided
+1073839768 commons-el:commons-el:jar:1.0:provided
+1337870444 net.java.dev.jets3t:jets3t:jar:0.9.0:provided
+230456842 com.jamesmurty.utils:java-xmlbuilder:jar:0.4:provided
+1668271280 commons-configuration:commons-configuration:jar:1.6:provided
+676436987 commons-digester:commons-digester:jar:1.8:provided
+361843637 commons-beanutils:commons-beanutils:jar:1.7.0:provided
+2066950947 commons-beanutils:commons-beanutils-core:jar:1.8.0:provided
+1722053305 com.jcraft:jsch:jar:0.1.42:provided
+1116648405 org.htrace:htrace-core:jar:3.0.4:provided
+1574798546 javolution:javolution:jar:5.5.1:provided
+1070978681 org.apache.hive:hive-service:jar:3.1.1:provided
+2057394816 org.apache.hive:hive-llap-server:jar:3.1.1:provided
+1292262938 org.apache.hive:hive-llap-common:jar:3.1.1:provided
+2085398652 org.apache.hive:hive-llap-client:jar:3.1.1:provided
+1841029010 org.apache.hive:hive-llap-tez:jar:3.1.1:provided
+499052031 io.netty:netty-all:jar:4.1.17.Final:provided
+1656194780 org.codehaus.jettison:jettison:jar:1.1:provided
+2074201534 org.apache.hive:hive-llap-common:test-jar:tests:3.1.1:provided
+1221970455 org.apache.hbase:hbase-hadoop2-compat:jar:2.0.0-alpha4:provided
+577636327 org.apache.hbase:hbase-metrics:jar:2.0.0-alpha4:provided
+2083644432 org.apache.hbase:hbase-metrics-api:jar:2.0.0-alpha4:provided
+159910421 org.apache.hadoop:hadoop-mapreduce-client-core:jar:2.7.1:provided
+1877732417 org.apache.hbase:hbase-server:jar:2.0.0-alpha4:provided
+1038651236 org.apache.hbase:hbase-http:jar:2.0.0-alpha4:provided
+1317731757 org.glassfish.jersey.core:jersey-server:jar:2.25.1:provided
+127635147 org.glassfish.jersey.core:jersey-common:jar:2.25.1:provided
+925037469 org.glassfish.jersey.bundles.repackaged:jersey-guava:jar:2.25.1:provided
+1321785778 org.glassfish.hk2:osgi-resource-locator:jar:1.0.1:provided
+1471558227 org.glassfish.jersey.core:jersey-client:jar:2.25.1:provided
+201331640 org.glassfish.jersey.media:jersey-media-jaxb:jar:2.25.1:provided
+740206526 org.glassfish.hk2:hk2-api:jar:2.5.0-b32:provided
+613674694 org.glassfish.hk2:hk2-utils:jar:2.5.0-b32:provided
+1121023149 org.glassfish.hk2.external:aopalliance-repackaged:jar:2.5.0-b32:provided
+1321214620 org.glassfish.hk2.external:javax.inject:jar:2.5.0-b32:provided
+389701549 org.glassfish.hk2:hk2-locator:jar:2.5.0-b32:provided
+753170002 org.javassist:javassist:jar:3.20.0-GA:provided
+1708723071 javax.validation:validation-api:jar:1.1.0.Final:provided
+708968858 org.glassfish.jersey.containers:jersey-container-servlet-core:jar:2.25.1:provided
+1874912328 org.apache.hbase:hbase-procedure:jar:2.0.0-alpha4:provided
+1612269828 org.apache.hbase:hbase-common:jar:tests:2.0.0-alpha4:provided
+1303786635 org.apache.hbase:hbase-replication:jar:2.0.0-alpha4:provided
+2000855670 org.apache.hbase:hbase-prefix-tree:jar:2.0.0-alpha4:provided
+524876402 org.apache.commons:commons-collections4:jar:4.1:provided
+900973046 org.glassfish.web:javax.servlet.jsp:jar:2.3.2:provided
+1230875047 org.glassfish:javax.el:jar:3.0.1-b11:provided (version selected from constraint [3.0.0,))
+737076200 javax.ws.rs:javax.ws.rs-api:jar:2.0.1:provided
+1932330893 com.lmax:disruptor:jar:3.3.6:provided
+1488639087 org.apache.hadoop:hadoop-distcp:jar:2.7.1:provided
+2081312334 org.apache.hadoop:hadoop-client:jar:2.7.1:provided
+539169668 org.apache.hadoop:hadoop-mapreduce-client-app:jar:2.7.1:provided
+1000962402 org.apache.hadoop:hadoop-mapreduce-client-common:jar:2.7.1:provided
+901696468 org.apache.hadoop:hadoop-yarn-client:jar:2.7.1:provided
+1003261715 org.apache.hadoop:hadoop-mapreduce-client-shuffle:jar:2.7.1:provided
+63636701 org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:2.7.1:provided
+1943609263 org.apache.hbase:hbase-mapreduce:jar:2.0.0-alpha4:provided
+821725803 org.apache.hbase:hbase-common:jar:2.0.0-alpha4:provided
+1863397232 com.github.stephenc.findbugs:findbugs-annotations:jar:1.3.9-1:provided
+874980259 org.apache.hbase:hbase-hadoop-compat:jar:2.0.0-alpha4:provided
+255358703 javax.servlet.jsp:javax.servlet.jsp-api:jar:2.3.1:provided
+1802837169 commons-codec:commons-codec:jar:1.7:provided
+234476544 org.eclipse.jetty:jetty-runner:jar:9.3.20.v20170531:provided
+5162023 org.eclipse.jetty:jetty-plus:jar:9.3.20.v20170531:provided
+1284326863 org.eclipse.jetty:jetty-annotations:jar:9.3.20.v20170531:provided
+266225787 javax.annotation:javax.annotation-api:jar:1.2:provided
+1287967828 org.ow2.asm:asm:jar:5.0.1:provided
+987586071 org.ow2.asm:asm-commons:jar:5.0.1:provided
+475584446 org.ow2.asm:asm-tree:jar:5.0.1:provided
+1639500254 org.eclipse.jetty:jetty-jaas:jar:9.3.20.v20170531:provided
+188008393 org.eclipse.jetty.websocket:websocket-server:jar:9.3.20.v20170531:provided
+1531514206 org.eclipse.jetty.websocket:websocket-common:jar:9.3.20.v20170531:provided
+32949422 org.eclipse.jetty.websocket:websocket-api:jar:9.3.20.v20170531:provided
+640093047 org.eclipse.jetty.websocket:websocket-client:jar:9.3.20.v20170531:provided
+192973557 org.eclipse.jetty.websocket:websocket-servlet:jar:9.3.20.v20170531:provided
+414205222 org.eclipse.jetty:jetty-jndi:jar:9.3.20.v20170531:provided
+802435370 org.eclipse.jetty:apache-jsp:jar:9.3.20.v20170531:provided
+834075412 org.eclipse.jetty.toolchain:jetty-schemas:jar:3.1:provided
+1055787253 org.eclipse.jdt.core.compiler:ecj:jar:4.4.2:provided
+611185531 org.eclipse.jetty:apache-jstl:jar:9.3.20.v20170531:provided
+717151165 org.apache.taglibs:taglibs-standard-spec:jar:1.2.5:provided
+743893925 org.apache.taglibs:taglibs-standard-impl:jar:1.2.5:provided
+1647441786 org.apache.thrift:libfb303:jar:0.9.3:provided
+688662124 org.apache.curator:curator-recipes:jar:2.12.0:provided
+1974690755 org.jamon:jamon-runtime:jar:2.3.1:provided
+1856218387 org.apache.hive:hive-serde:jar:3.1.1:provided
+63178138 com.google.code.findbugs:jsr305:jar:3.0.0:provided
+1261661384 org.apache.arrow:arrow-vector:jar:0.8.0:provided
+628142870 org.apache.arrow:arrow-format:jar:0.8.0:provided
+1451757974 org.apache.arrow:arrow-memory:jar:0.8.0:provided
+1975727624 io.netty:netty-buffer:jar:4.1.17.Final:provided
+625361236 io.netty:netty-common:jar:4.1.17.Final:provided
+93241065 com.carrotsearch:hppc:jar:0.7.2:provided
+320605039 com.vlkan:flatbuffers:jar:1.2.0-3f79e055:provided
+2130906226 org.apache.avro:avro:jar:1.7.7:provided
+1759030823 org.codehaus.jackson:jackson-core-asl:jar:1.9.13:provided
+407976995 org.codehaus.jackson:jackson-mapper-asl:jar:1.9.13:provided
+1810172725 com.thoughtworks.paranamer:paranamer:jar:2.3:provided
+216197799 org.xerial.snappy:snappy-java:jar:1.0.5:provided
+560383114 net.sf.opencsv:opencsv:jar:2.3:provided
+809976993 org.apache.parquet:parquet-hadoop-bundle:jar:1.10.0:provided
+1933073727 org.apache.hive:hive-metastore:jar:3.1.1:provided
+1746150957 org.apache.hive:hive-standalone-metastore:jar:3.1.1:provided
+2143419697 org.datanucleus:datanucleus-api-jdo:jar:4.2.4:provided
+1974062116 org.datanucleus:datanucleus-core:jar:4.1.17:provided
+1145677323 org.datanucleus:datanucleus-rdbms:jar:4.1.19:provided
+228972001 org.datanucleus:javax.jdo:jar:3.2.0-m3:provided
+2105379089 javax.transaction:transaction-api:jar:1.1:provided
+1175368310 sqlline:sqlline:jar:1.3.0:provided
+1342061890 com.google.guava:guava:jar:19.0:provided
+1826091905 org.apache.hbase:hbase-client:jar:2.0.0-alpha4:provided
+2113133067 org.apache.hbase.thirdparty:hbase-shaded-protobuf:jar:1.0.1:provided
+1314740929 org.apache.hbase:hbase-protocol-shaded:jar:2.0.0-alpha4:provided
+1886878309 org.apache.hbase:hbase-protocol:jar:2.0.0-alpha4:provided
+594531345 junit:junit:jar:4.12:provided
+1076847093 org.hamcrest:hamcrest-core:jar:1.3:provided
+1686151267 commons-io:commons-io:jar:2.5:provided
+795822788 org.apache.hbase.thirdparty:hbase-shaded-miscellaneous:jar:1.0.1:provided
+1920846948 org.apache.hbase.thirdparty:hbase-shaded-netty:jar:1.0.1:provided
+1239821079 org.apache.htrace:htrace-core:jar:3.2.0-incubating:provided
+679741936 org.jruby.jcodings:jcodings:jar:1.0.18:provided
+2103992142 org.jruby.joni:joni:jar:2.1.11:provided
+1642771051 org.apache.commons:commons-crypto:jar:1.0.0:provided
+430740434 org.apache.hadoop:hadoop-auth:jar:2.7.1:provided
+292536990 org.apache.directory.server:apacheds-kerberos-codec:jar:2.0.0-M15:provided
+776105426 org.apache.directory.server:apacheds-i18n:jar:2.0.0-M15:provided
+437255067 org.apache.directory.api:api-asn1-api:jar:1.0.0-M20:provided
+1740687627 org.apache.directory.api:api-util:jar:1.0.0-M20:provided
+139762783 org.apache.yetus:audience-annotations:jar:0.5.0:provided
+893734010 com.jolbox:bonecp:jar:0.8.0.RELEASE:provided
+1358150250 com.zaxxer:HikariCP:jar:2.6.1:provided
+832219630 org.apache.derby:derby:jar:10.14.1.0:provided
+494956006 commons-pool:commons-pool:jar:1.5.4:provided
+45733040 commons-dbcp:commons-dbcp:jar:1.4:provided
+1330912871 javax.jdo:jdo-api:jar:3.0.1:provided
+736431034 javax.transaction:jta:jar:1.1:provided
+890547325 org.antlr:antlr-runtime:jar:3.5.2:provided
+2042950203 co.cask.tephra:tephra-api:jar:0.6.0:provided
+369916994 co.cask.tephra:tephra-core:jar:0.6.0:provided
+355933666 com.google.code.gson:gson:jar:2.2.4:provided
+89144445 com.google.inject:guice:jar:3.0:provided
+1532711878 javax.inject:javax.inject:jar:1:provided
+784386691 aopalliance:aopalliance:jar:1.0:provided
+53807796 com.google.inject.extensions:guice-assistedinject:jar:3.0:provided
+125992315 it.unimi.dsi:fastutil:jar:6.5.6:provided
+105302830 org.apache.twill:twill-common:jar:0.6.0-incubating:provided
+779787703 org.apache.twill:twill-core:jar:0.6.0-incubating:provided
+87118438 org.apache.twill:twill-api:jar:0.6.0-incubating:provided
+298622494 org.apache.twill:twill-discovery-api:jar:0.6.0-incubating:provided
+560146610 org.apache.twill:twill-discovery-core:jar:0.6.0-incubating:provided
+1527684620 org.apache.twill:twill-zookeeper:jar:0.6.0-incubating:provided
+1411597673 co.cask.tephra:tephra-hbase-compat-1.0:jar:0.6.0:provided
+568991133 org.apache.hive:hive-shims:jar:3.1.1:provided
+435460010 org.apache.hive.shims:hive-shims-common:jar:3.1.1:provided
+916816998 org.apache.hive.shims:hive-shims-0.23:jar:3.1.1:provided
+2028177366 org.apache.hadoop:hadoop-yarn-server-resourcemanager:jar:3.1.0:provided
+152337314 com.google.inject.extensions:guice-servlet:jar:4.0:provided
+878765293 com.sun.jersey.contribs:jersey-guice:jar:1.19:provided
+788316339 com.sun.jersey:jersey-servlet:jar:1.19:provided
+1246052237 org.apache.hadoop:hadoop-yarn-common:jar:3.1.0:provided
+1621525516 com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.7.8:provided
+1397904249 com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.7.8:provided
+467925240 com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.7.8:provided
+2025395550 org.apache.hadoop:hadoop-yarn-api:jar:3.1.0:provided
+753625249 javax.xml.bind:jaxb-api:jar:2.2.11:provided
+1843609566 com.sun.jersey:jersey-client:jar:1.19:provided
+1774403234 org.eclipse.jetty:jetty-util-ajax:jar:9.3.19.v20170502:provided
+1507906849 org.apache.hadoop:hadoop-yarn-server-common:jar:3.1.0:provided
+775487708 org.apache.hadoop:hadoop-yarn-registry:jar:3.1.0:provided
+1523631882 commons-daemon:commons-daemon:jar:1.0.13:provided
+706139356 dnsjava:dnsjava:jar:2.1.7:provided
+1971344738 org.apache.geronimo.specs:geronimo-jcache_1.0_spec:jar:1.0-alpha-1:provided
+333022446 org.ehcache:ehcache:jar:3.3.1:provided
+1340995848 com.zaxxer:HikariCP-java7:jar:2.4.12:provided
+1396794397 com.microsoft.sqlserver:mssql-jdbc:jar:6.2.1.jre7:provided
+605884498 org.apache.hadoop:hadoop-yarn-server-applicationhistoryservice:jar:3.1.0:provided
+2067533515 de.ruedigermoeller:fst:jar:2.50:provided
+1538891037 com.cedarsoftware:java-util:jar:1.9.0:provided
+50359291 com.cedarsoftware:json-io:jar:2.5.1:provided
+1339257929 org.apache.hadoop:hadoop-yarn-server-web-proxy:jar:3.1.0:provided
+1409442094 org.fusesource.leveldbjni:leveldbjni-all:jar:1.8:provided
+1128554438 org.apache.hive.shims:hive-shims-scheduler:jar:3.1.1:provided
+1125886950 org.apache.hive:hive-service-rpc:jar:3.1.1:provided
+398393072 org.apache.httpcomponents:httpclient:jar:4.5.2:provided
+1349707320 commons-logging:commons-logging:jar:1.2:provided
+824781215 org.apache.httpcomponents:httpcore:jar:4.4.4:provided
+796127431 org.apache.thrift:libthrift:jar:0.9.3:provided
+1339736743 org.apache.zookeeper:zookeeper:jar:3.4.6:provided
+148815426 org.slf4j:slf4j-log4j12:jar:1.6.1:provided
+1891834647 log4j:log4j:jar:1.2.16:provided
+1082537984 io.netty:netty:jar:3.7.0.Final:provided
+1498416461 org.apache.curator:curator-framework:jar:2.12.0:provided
+604081291 org.apache.curator:curator-client:jar:2.12.0:provided
+1290940607 org.slf4j:slf4j-api:jar:1.7.10:provided
+1036343065 org.apache.hive:hive-upgrade-acid:jar:3.1.1:provided
+#
+1721510663 454992345 provided
+491013714 1721510663 provided
+223268272 491013714 provided
+1013199775 1470053518 provided
+1013199775 1320260667 provided
+1013199775 1311253681 provided
+1013199775 1397558816 provided
+1013199775 2098738059 provided
+1061838943 818464427 provided
+1061838943 198173340 provided
+1061838943 938941445 provided
+1540606524 769172083 provided
+1509387862 1450133081 provided
+1540606524 1509387862 provided
+1540606524 321451138 provided
+1061838943 1540606524 provided
+1013199775 1061838943 provided
+1013199775 2072709038 provided
+1013199775 434918231 provided
+891130813 1640365432 provided
+1013199775 891130813 provided
+1112551577 970827119 provided
+1013199775 1112551577 provided
+1619282322 786716359 provided
+1013199775 1619282322 provided
+1844674426 961628534 provided
+1013199775 1844674426 provided
+2077970199 2005232837 provided
+1013199775 2077970199 provided
+1013199775 33281504 provided
+852633168 324035818 provided
+852633168 1332728065 provided
+1013199775 852633168 provided
+1013199775 275012057 provided
+1013199775 866589987 provided
+1013199775 599808137 provided
+303456809 546200355 provided
+1013199775 303456809 provided
+1013199775 734729236 provided
+1013199775 183371252 provided
+1013199775 726149546 provided
+1013199775 2035099811 provided
+1013199775 173402154 provided
+1894686001 436338687 provided
+1894686001 177849388 provided
+1013199775 1894686001 provided
+724270652 1052803745 provided
+724270652 2050791921 provided
+724270652 381149258 provided
+724270652 1713223230 provided
+724270652 1559426518 provided
+724270652 1117719720 provided
+724270652 1795358977 provided
+724270652 1621419545 provided
+733213598 301154316 provided
+733213598 1653297210 provided
+733213598 626587228 provided
+724270652 733213598 provided
+724270652 298045034 provided
+724270652 440082302 provided
+724270652 579442307 provided
+724270652 1073839768 provided
+1337870444 230456842 provided
+724270652 1337870444 provided
+676436987 361843637 provided
+1668271280 676436987 provided
+1668271280 2066950947 provided
+724270652 1668271280 provided
+724270652 1722053305 provided
+724270652 1116648405 provided
+799570413 724270652 provided
+1013199775 799570413 provided
+1013199775 1574798546 provided
+1377456236 1013199775 provided
+2057394816 1292262938 provided
+2057394816 2085398652 provided
+2057394816 1841029010 provided
+2057394816 499052031 provided
+2057394816 1656194780 provided
+2057394816 2074201534 provided
+1221970455 577636327 provided
+1221970455 2083644432 provided
+1221970455 159910421 provided
+2057394816 1221970455 provided
+127635147 925037469 provided
+127635147 1321785778 provided
+1317731757 127635147 provided
+1317731757 1471558227 provided
+1317731757 201331640 provided
+740206526 613674694 provided
+740206526 1121023149 provided
+1317731757 740206526 provided
+1317731757 1321214620 provided
+389701549 753170002 provided
+1317731757 389701549 provided
+1317731757 1708723071 provided
+1038651236 1317731757 provided
+1038651236 708968858 provided
+1877732417 1038651236 provided
+1874912328 1612269828 provided
+1877732417 1874912328 provided
+1877732417 1303786635 provided
+1877732417 2000855670 provided
+1877732417 524876402 provided
+900973046 1230875047 provided
+1877732417 900973046 provided
+1877732417 737076200 provided
+1877732417 1932330893 provided
+1877732417 1488639087 provided
+1000962402 901696468 provided
+539169668 1000962402 provided
+539169668 1003261715 provided
+2081312334 539169668 provided
+2081312334 63636701 provided
+1877732417 2081312334 provided
+2057394816 1877732417 provided
+2057394816 1943609263 provided
+821725803 1863397232 provided
+2057394816 821725803 provided
+2057394816 874980259 provided
+1070978681 2057394816 provided
+1070978681 255358703 provided
+1070978681 1802837169 provided
+234476544 5162023 provided
+1284326863 266225787 provided
+1284326863 1287967828 provided
+987586071 475584446 provided
+1284326863 987586071 provided
+234476544 1284326863 provided
+234476544 1639500254 provided
+1531514206 32949422 provided
+188008393 1531514206 provided
+188008393 640093047 provided
+188008393 192973557 provided
+234476544 188008393 provided
+234476544 414205222 provided
+802435370 834075412 provided
+802435370 1055787253 provided
+234476544 802435370 provided
+611185531 717151165 provided
+611185531 743893925 provided
+234476544 611185531 provided
+1070978681 234476544 provided
+1070978681 1647441786 provided
+1070978681 688662124 provided
+1070978681 1974690755 provided
+1377456236 1070978681 provided
+1856218387 63178138 provided
+1261661384 628142870 provided
+1261661384 1451757974 provided
+1261661384 1975727624 provided
+1261661384 625361236 provided
+1856218387 1261661384 provided
+1856218387 93241065 provided
+1856218387 320605039 provided
+2130906226 1759030823 provided
+2130906226 407976995 provided
+2130906226 1810172725 provided
+2130906226 216197799 provided
+1856218387 2130906226 provided
+1856218387 560383114 provided
+1856218387 809976993 provided
+1377456236 1856218387 provided
+1746150957 2143419697 provided
+1746150957 1974062116 provided
+1746150957 1145677323 provided
+228972001 2105379089 provided
+1746150957 228972001 provided
+1746150957 1175368310 provided
+1933073727 1746150957 provided
+1933073727 1342061890 provided
+1826091905 2113133067 provided
+1826091905 1314740929 provided
+594531345 1076847093 provided
+1886878309 594531345 provided
+1826091905 1886878309 provided
+1826091905 1686151267 provided
+1826091905 795822788 provided
+1826091905 1920846948 provided
+1826091905 1239821079 provided
+1826091905 679741936 provided
+1826091905 2103992142 provided
+1826091905 1642771051 provided
+292536990 776105426 provided
+292536990 437255067 provided
+292536990 1740687627 provided
+430740434 292536990 provided
+1826091905 430740434 provided
+1826091905 139762783 provided
+1933073727 1826091905 provided
+1933073727 893734010 provided
+1933073727 1358150250 provided
+1933073727 832219630 provided
+1933073727 494956006 provided
+1933073727 45733040 provided
+1330912871 736431034 provided
+1933073727 1330912871 provided
+1933073727 890547325 provided
+1933073727 2042950203 provided
+369916994 355933666 provided
+89144445 1532711878 provided
+89144445 784386691 provided
+369916994 89144445 provided
+369916994 53807796 provided
+369916994 125992315 provided
+369916994 105302830 provided
+779787703 87118438 provided
+369916994 779787703 provided
+369916994 298622494 provided
+369916994 560146610 provided
+369916994 1527684620 provided
+1933073727 369916994 provided
+1933073727 1411597673 provided
+1377456236 1933073727 provided
+568991133 435460010 provided
+2028177366 152337314 provided
+878765293 788316339 provided
+2028177366 878765293 provided
+1246052237 1621525516 provided
+1397904249 467925240 provided
+1246052237 1397904249 provided
+2028177366 1246052237 provided
+2028177366 2025395550 provided
+2028177366 753625249 provided
+2028177366 1843609566 provided
+2028177366 1774403234 provided
+775487708 1523631882 provided
+775487708 706139356 provided
+1507906849 775487708 provided
+1507906849 1971344738 provided
+1507906849 333022446 provided
+1507906849 1340995848 provided
+1507906849 1396794397 provided
+2028177366 1507906849 provided
+1538891037 50359291 provided
+2067533515 1538891037 provided
+605884498 2067533515 provided
+2028177366 605884498 provided
+2028177366 1339257929 provided
+2028177366 1409442094 provided
+916816998 2028177366 provided
+568991133 916816998 provided
+568991133 1128554438 provided
+1377456236 568991133 provided
+1377456236 1125886950 provided
+398393072 1349707320 provided
+1377456236 398393072 provided
+1377456236 824781215 provided
+1377456236 796127431 provided
+1339736743 148815426 provided
+1339736743 1891834647 provided
+1339736743 1082537984 provided
+1377456236 1339736743 provided
+1498416461 604081291 provided
+1377456236 1498416461 provided
+1377456236 1290940607 provided
+1377456236 1036343065 provided
+223268272 1377456236 provided
