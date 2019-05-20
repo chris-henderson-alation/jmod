@@ -1,9 +1,8 @@
 extern crate structopt;
 extern crate tempdir;
 
-use std::path::{PathBuf, Path};
+use std::path::PathBuf;
 use structopt::StructOpt;
-use std::str::FromStr;
 
 use super::artifact::Artifact;
 
@@ -22,6 +21,11 @@ pub struct JMod {
     /// The path to the target JBoss installation root directory. This directory must have
     /// the `modules` subdirectory within it.
     #[structopt(short = "j", long = "jboss", env = "JBOSS_HOME")]
-    jboss_home: PathBuf
+    pub jboss_home: PathBuf,
+
+    /// If that target installation already exists, then force will delete the existing target
+    /// before installation.
+    #[structopt(short = "f", long = "force")]
+    pub force: bool
 }
 

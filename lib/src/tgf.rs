@@ -1,10 +1,7 @@
 use std::collections::HashMap;
 use std::str::SplitAsciiWhitespace;
-use std::io::SeekFrom::End;
 use crate::artifact::Artifact;
-use crate::graph::DependencyGraph;
 use std::path::Path;
-use super::repo::Repo;
 
 #[derive(Debug, Clone)]
 pub struct Entry {

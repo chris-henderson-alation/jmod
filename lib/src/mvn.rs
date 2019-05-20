@@ -1,4 +1,3 @@
-use super::artifact::Artifact;
 use super::repo::Repo;
 use std::path::Path;
 use tempfile::NamedTempFile;

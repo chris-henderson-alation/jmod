@@ -14,7 +14,7 @@ impl JBoss {
     pub fn install(&self, artifact: &Artifact, jar: &Path, dependencies: Vec<&Artifact>) {
         let dir = self.home.join("modules").join(artifact.to_path());
         std::fs::create_dir_all(&dir).unwrap();
-        std::fs::rename(jar, dir.join(jar.file_name().unwrap()));
+        std::fs::rename(jar, dir.join(jar.file_name().unwrap())).unwrap();
         let mut deps = String::new();
         for dep in dependencies {
             deps.push_str(format!(r#"<module name="{}.{}" slot="{}" />"#, dep.group_id, dep.artifact_id, dep.version).as_str());

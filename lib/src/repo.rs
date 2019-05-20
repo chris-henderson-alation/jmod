@@ -1,7 +1,4 @@
-use std::path::PathBuf;
-use std::fs::DirEntry;
-use std::ffi::OsString;
-use std::collections::HashSet;
+use std::path::{PathBuf, Path};
 use crate::artifact::Artifact;
 use tempdir::TempDir;
 
@@ -25,5 +22,9 @@ impl Repo {
         let target = artifact.to_string();
         let goal = self.manifest.iter().find(|f| f.starts_with(target.as_str()))?;
         Some(self.directory.path().join(goal))
+    }
+
+    pub fn path(&self) -> &Path {
+        self.directory.path()
     }
 }
