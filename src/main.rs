@@ -14,6 +14,7 @@ fn main() -> Result<(), std::io::Error> {
         std::fs::remove_dir_all(&target)?;
     }
     std::fs::create_dir_all(&target)?;
-    std::fs::rename(repo.path(), target)?;
+    std::fs::rename(repo.path(), &target)?;
+    opts.artifact.install(&target)?;
     Ok(())
 }

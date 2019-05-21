@@ -1,7 +1,8 @@
 use std::str::FromStr;
-use std::path::PathBuf;
+use std::path::{PathBuf, Path};
 
 use tempfile::NamedTempFile;
+
 
 #[derive(Debug, Clone)]
 pub struct Artifact {
@@ -70,6 +71,37 @@ impl Artifact {
         Ok(pom_file)
     }
 
+    pub fn install(&self, installation: &Path) -> Result<(), std::io::Error> {
+        let dir = installation.read_dir()?;
+        let mut files = vec![];
+        for f in dir {
+            let file = f?;
+            let fname = file.file_name().clone();
+            let fname_str = fname.to_str().unwrap().to_string();
+            files.push(fname_str);
+        }
+        files.sort();
+        let mut resources = String::new();
+        for file in files {
+            resources.push('\t');
+            resources.push('\t');
+            resources.push_str(format!(r#"<resource-root path="{}" />"#, file).as_ref());
+            resources.push('\n');
+        }
+        let module = format!(r#"
+<?xml version="1.0" encoding="UTF-8"?>
+<module xmlns="urn:jboss:module:1.1" name="{}.{}" slot="{}">
+
+	<resources>
+
+{}
+	</resources>
+
+</module>
+"#, self.group_id, self.artifact_id, self.version, resources);
+        std::fs::write(installation.join("module.xml"), module)?;
+        Ok(())
+    }
 }
 
 impl FromStr for Artifact {

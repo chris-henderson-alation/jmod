@@ -35,7 +35,7 @@ mod tests {
 
     #[test]
     fn test_coopy() {
-        let a = Artifact::from_str("org.apache.hive:hive-jdbc:1.2.1").unwrap();
+//        let a = Artifact::from_str("org.apache.hive:hive-jdbc:1.2.1").unwrap();
 
 //        let repo = copy_dependencies(a).unwrap();
     }

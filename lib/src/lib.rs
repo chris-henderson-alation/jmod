@@ -30,7 +30,7 @@ mod tests {
 
     #[test]
     fn walkit() {
-        let pom = Path::new("/Users/chris.henderson/wildFlyEval/hive_1_2_1/pom.xml");
+        let pom = Path::new("/Users/chris.henderson/wildFlyEval/hive_3_1_1/pom.xml");
         let repo = mvn::copy_dependencies(pom).unwrap();
         let tgf =  tgf::TGF::from(mvn::dependency_tree(pom).unwrap().path());
         let graph = graph::DependencyGraph::from(tgf);
